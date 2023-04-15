@@ -1,4 +1,3 @@
-# Importar a biblioteca 'fileutils'
 require 'fileutils'
 
 # Função para renomear arquivos na pasta especificada
